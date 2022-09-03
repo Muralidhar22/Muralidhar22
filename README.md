@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muralidhar </h1>
-<h4 align="center">A Web Developer and An Expert Learner.</h4>
+<h4 align="center">A Web Developer and A Learner.</h4>
 
 <!--
 **Muralidhar22/Muralidhar22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Update README.md
 -->
