@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muralidhar </h1>
-<h4 align="center">A Front-End Developer and A Learner.</h4>
+<h4 align="center">A Front-End Developer</h4>
 
 * Open source Contributor at [Real Dev Squad](https://github.com/Real-Dev-Squad)
 
