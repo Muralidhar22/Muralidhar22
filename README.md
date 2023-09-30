@@ -22,8 +22,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Muralidhar22&" alt="Muralidhar22" /></p>
 
-<a href="https://app.daily.dev/jhardaway"><img src="https://api.daily.dev/devcards/7942d829e7814937b4c3c05e772c5989.png?r=0a9" width="400" alt="Jerome Hardaway's Dev Card"/></a>
-
 <!--
 **Muralidhar22/Muralidhar22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
