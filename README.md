@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muralidhar </h1>
 
-<h3 align="center">Frontend Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muralidhar22&label=Profile%20views&color=0e75b6&style=flat" alt="Muralidhar22" /> </p>
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muralidhar22" alt="Muralidhar22" /></a> </p> -->
 
-- 🎥 I’m currently working as: **Software Engineer(Frontend) Web & Mobile**
-
-- 💬 Ask me about **Javascript, React**
 
 <p align="left">
 </p>
